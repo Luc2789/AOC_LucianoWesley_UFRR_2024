@@ -1,7 +1,7 @@
 # Unidade de controle
 
-## formula original
+## Formula original
     original​=((A∧B)∨C)∨C
     
-## formula simplificada 
+## Formula simplificada 
     simplificado​=(A∧B)∨C
